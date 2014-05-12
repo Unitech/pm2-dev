@@ -1,0 +1,21 @@
+{
+  "name": "pm2-logs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "pm2-interface" : "*",
+    "blessed" : "*",
+    "async" : "*",
+    "commander" : "*",
+    "colors" : "*",
+    "watch" : "*",
+    "pm2" : "*"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
